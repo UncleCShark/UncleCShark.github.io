@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die Slowly, Pablo Neruda"
+title: "Die Slowly"
 date: 2019-01-03
 ---
 "Die Slowly" by Pablo Neruda 
