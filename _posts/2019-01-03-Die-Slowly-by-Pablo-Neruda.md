@@ -25,7 +25,7 @@ He or she who shuns passion,<br/>
 who prefers black on white,<br/>
 dotting ones rather than a bundle of emotions,<br/>
 the kind that make your eyes glimmer,<br/>
-that turn a yawn into a smile,\
+that turn a yawn into a smile,<br/>
 that make the heart pound in the face of mistakes and feelings, dies slowly.<br/>
 
 He or she who does not turn things topsy-turvy,<br/>
