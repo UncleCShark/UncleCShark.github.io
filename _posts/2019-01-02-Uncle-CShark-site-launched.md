@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uncle CShark, Tremendous imaginer, Launches Site"
+title: "Uncle CShark, Tremendous Imaginer, Launches Site"
 date: 2019-01-02
 ---
 
