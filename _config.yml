@@ -1,3 +1,5 @@
-name: Uncle CShark, Horrible Imaginer
+name: Uncle CShark, Tremendous Imaginer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+# Google Analytics
+google_analytics: UA-131675759-1
