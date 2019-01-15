@@ -5,7 +5,7 @@ date: 2019-01-15
 categories: [Jekyll, Cmaketopia]
 ---
 
-Last days it was time I had to put my ideas about [Cmakeland](https://unclecshark.github.io/Cmaketopia/) on the back burner. That was really a deft touch to make a friend with [Jekyll](https://jekyllrb.com/). Jekyll is a simple lightweight static html generator. One of the best advantages of static html  page is speed. Static pages are rendered very fast comparing to dynamic ones. Together with my new friend [Jekyll](https://jekyllrb.com/) we added some features and made some fixes to [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) page:
+Last days it was time I had to put my ideas about [Cmakeland](https://unclecshark.github.io/Cmaketopia/) on the back burner. That was really a deft touch to make a friend with [Jekyll](https://jekyllrb.com/). Jekyll is a simple lightweight static html generator. One of the best advantages of static html  page is speed. Static pages are created very fast comparing to dynamic ones. Together with my new friend [Jekyll](https://jekyllrb.com/). I prepared .md files Jekyll generated html pages. I added some features and made some fixes to [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) page:
 
 {:.posts}
 
