@@ -1,5 +1,15 @@
-name: Uncle CShark, Tremendous Imaginer
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# Setup
+title:        Uncle CShark, Tremendous Imaginer
+locale:       "en-GB"
+permalink:    /blog/:year/:month/:day/:title
+# About/contact
+author:
+  name:       UncleCShark
+  mail:       mailto:unclecshark@gmail.com
+  url:        https://github.com/UncleCShark
+  leftimage:  https://user-images.githubusercontent.com/38818698/51138317-1c678d00-1841-11e9-923e-d1ed5bfd8f38.png
+  rightimage: https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png
 # Google Analytics
 google_analytics: UA-131675759-1
+#Others
+markdown: kramdown
