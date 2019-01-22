@@ -16,4 +16,4 @@ A list of changes:
 * small fixes
 * and a [badge](https://unclecshark.github.io/Cmaketopia/Docs/Badge) Yeah we have one !!!!!
 
-The badge is free to print or download, but remember when you use it some magic will happen. You are becoming the Cmaketopian at heart. Be careful and don't touch it if you don't agree with [the Cmaketopia philosophy](https://unclecshark.github.io/Cmaketopia/Docs/Introduction).
+The badge is free to print or download, but remember when you use it some magic will happen. You are becoming the Cmaketopian at heart. Be careful and don't touch it if you don't agree with the [Cmaketopia](https://unclecshark.github.io/Cmaketopia/Docs/Introduction) philosophy.
