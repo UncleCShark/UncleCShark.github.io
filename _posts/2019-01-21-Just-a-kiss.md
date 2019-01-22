@@ -17,8 +17,8 @@ Time passes and [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) project 
 ---
 layout: page
 title: Cmake Philosophy
-previous_page: PreviousPageNameUrl
-next_page: NextPageNameUrl
+previous_page: PreviousPageNameURL
+next_page: NextPageNameURL
 ---
 # Cmake Philosophy
 
