@@ -5,7 +5,7 @@ date: 2019-01-21
 categories: [Jekyll]
 ---
 
-Time passes and [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) project goes on. Suddenly I realized that I needed to add navigation to the site. Jekyll has such but for posts but not for pages. I was googling for hours. But all solutions were too complicated. I had to do it myself. I wanted to implement a bidirectional list based on Jekyll. I thought "Keep it simple stupid!" See how I did it. First I added two **Custom Variables** previous_page and next_page that I could access in Liquid.
+Time passes and [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) project goes on. Suddenly I realized that I needed to add navigation to the site. Jekyll has such but for posts but not for pages. I was googling for hours. But all solutions were too complicated. I had to do it myself. I wanted to implement a bidirectional list based on Jekyll markdown pages. I thought "Keep it simple stupid!" See how I did it. First I added two **Custom Variables** previous_page and next_page that I could access in Liquid.
 
 ```markdown
 ---
@@ -19,7 +19,7 @@ next_page: NextPageNameUrl
 ```
 
 Second, on the page template I added two divisions at the bottom.
-
+<!-- markdownlint-disable MD033 -->
 {% highlight markdown %}
 {% raw  %}
 
@@ -40,8 +40,8 @@ Second, on the page template I added two divisions at the bottom.
 
 {% endraw %}
 {% endhighlight %}
-
-You can see an effect [Cmaketopia](https://unclecshark.github.io/Cmaketopia/).
+<!-- markdownlint-enable MD033 -->
+You can see an effect on [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) page.
 Just a [kiss](https://en.wikipedia.org/wiki/KISS_principle).  
 Bye  
 C
