@@ -11,8 +11,8 @@ Time passes and [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) project 
 ---
 layout: page
 title: Cmake Philosophy
-previous_page: PreviousPageName
-next_page: NextPageName
+previous_page: PreviousPageNameUrl
+next_page: NextPageNameUrl
 ---
 # Cmake Philosophy
 
@@ -20,7 +20,9 @@ next_page: NextPageName
 
 Second, on the page template I added two divisions at the bottom.
 
-```markdown
+{% highlight markdown %}
+{% raw  %}
+
 <div class="left align-right">
     {% if page.previous_page %}
         <a href="{{ page.previous_page }}">&laquo;Back</a>
@@ -35,7 +37,9 @@ Second, on the page template I added two divisions at the bottom.
         <span class="prev disabled">Next &raquo;</span>
     {% endif %}
 </div>
-```
+
+{% endraw %}
+{% endhighlight %}
 
 You can see an effect [Cmaketopia](https://unclecshark.github.io/Cmaketopia/).
 Just a [kiss](https://en.wikipedia.org/wiki/KISS_principle).  
