@@ -42,6 +42,6 @@ Second, on the page template I added two divisions at the bottom.
 {% endhighlight %}
 <!-- markdownlint-enable MD033 -->
 You can see an effect on [Cmaketopia](https://unclecshark.github.io/Cmaketopia/) page.
-Just a [kiss](https://en.wikipedia.org/wiki/KISS_principle).  
+Just a [kiss](https://en.wikipedia.org/wiki/KISS_principle).:kiss:  
 Bye  
 C
