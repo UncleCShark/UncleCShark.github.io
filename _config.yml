@@ -1,7 +1,7 @@
 # Setup
 title:        Uncle CShark, Tremendous Imaginer
 locale:       "en-GB"
-permalink:    /blog/:year/:month/:day/:title
+#permalink:    /blog/:year/:month/:day/:title
 # About/contact
 author:
   name:       UncleCShark
@@ -11,7 +11,7 @@ author:
   rightimage: https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png
 # Plugins
 plugins:
-#  - jekyll-relative-links
+  - jekyll-relative-links
   - jemoji
 #  - jekyll-paginate
 # Google Analytics
