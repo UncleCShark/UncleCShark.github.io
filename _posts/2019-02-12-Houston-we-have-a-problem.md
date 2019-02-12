@@ -10,7 +10,7 @@ The other day I tried to compile SQLite source code with Mingw-w64 compiler (MSY
 What the hell?  I was thinking "Now, just breathe deeply and think, please." The message was "..... ld.exe cannot find -ldl"  
 
 - Question 1 - what is ld.exe?  Answer [LoaD](https://en.wikipedia.org/wiki/GNU_linker)
-- Question 2 - what is -ldl?    Answer -l is a linker option. It's shortcut means link libdl library
+- Question 2 - what is -ldl?    Answer -l is a linker option. It's a shortcut means link libdl library
 
 OK. But how can I find and install this library? Msys2 uses [pacman](https://www.archlinux.org/pacman/pacman.8.html) as a package manager. It means I should read the documentation. Reading.......  
 A few examples of pacman commands:  
